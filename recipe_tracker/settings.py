@@ -126,7 +126,7 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'recipe-tracker-frontend/build/static'),
 ]
 
-SPOONACULAR_API_KEY = '15480cf4cc894e3795ad0c3533eda5a4'
+SPOONACULAR_API_KEY = 'your-api-key'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
